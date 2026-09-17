@@ -53,9 +53,8 @@ A magic tee is normally characterised by two quantities:
 
 ## Procedure
 
-### General
 
-1. Set up the equipment as shown in Fig. 9(a).
+1. Set up the equipment as shown in Figure.
 2. Keep the control knobs of the klystron power supply as follows:
 
    | Control | Setting |
@@ -64,25 +63,9 @@ A magic tee is normally characterised by two quantities:
    | Beam voltage knob | Fully anti-clockwise |
    | Repeller voltage knob | Fully clockwise |
    | Meter switch | Cathode voltage position |
+3. Measure the values from the VSWR meter for E-Arm and H-Arm as input port.
 
-### Measurement of isolation between E and H arms
-
-1. Set the attenuator to around 20 dB. Call this setting **A₁** dB.
-2. Obtain a steady reference reading on the SWR meter, preferably in the 40 dB range.
-3. Disconnect and set up as shown in Fig. 9(b).
-4. Reduce the attenuation until the SWR meter reads the same value as in step 2 and note the attenuator setting **A₂** dB. The difference (A₁ − A₂) dB is the isolation in dB.
-
-### Demonstration of 3 dB power division in the collinear arms
-
-1. Feed the power input into either the E or the H arm.
-2. Set the attenuator to obtain a reference reading on the SWR meter **without** the component under test. Note the attenuator setting **A₁** dB.
-3. Connect the component under test (the magic tee).
-4. Reduce the attenuation to get the same reference reading as in step 2.
-5. Note the attenuator setting **A₂** dB.
-
-The difference in attenuator settings gives the ratio of the power coupled to the collinear arm to that in the main arm, in dB. This value is around **3 dB**.
-
-## Observation
+## Observation (Measurement of isolation between E and H arms)
 
 *(Include your own table relevant to the experiment.)*
 
